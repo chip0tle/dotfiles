@@ -180,6 +180,7 @@
                     "hidePassive": false,
                     "id": "Tray",
                     "pinned": [
+                        "steam"
                     ]
                 },
                 {
@@ -357,7 +358,7 @@
         "deadOpacity": 0.6,
         "displayMode": "auto_hide",
         "dockType": "floating",
-        "enabled": true,
+        "enabled": false,
         "floatingRatio": 0.5,
         "groupApps": false,
         "groupClickAction": "cycle",
@@ -679,6 +680,10 @@
             {
                 "enabled": true,
                 "id": "kitty"
+            },
+            {
+                "enabled": true,
+                "id": "code"
             }
         ],
         "enableUserTheming": false
