@@ -1,0 +1,9 @@
+# VSCODIUM
+.vscode-oss/cli/
+.vscode-oss/argv.json
+.vscode-oss/extensions/astral-sh.ty*/
+.vscode-oss/extensions/monokai.theme-monokai-pro-vscode*/
+.vscode-oss/extensions/ms-python.debugpy*/
+.vscode-oss/extensions/ms-python.python*/
+.vscode-oss/extensions/ms-python.vscode-python-envs*/
+.vscode-oss/extensions/vscodevim.vim*/
